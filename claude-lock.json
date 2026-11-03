@@ -11,7 +11,7 @@
       "hash": "6647eb5ad81d46b63dd62f7511520ac8",
       "remote_hash": "5ef0c7f7d7d08196b2e321bf1cbc3346"
     },
-    "./environments/quickstart.md": {
+    "./env.md": {
       "kind": "environment",
       "id": "env_011Bg9SgoL8uAuYfiQPHwbLB",
       "hash": "7cb0ff3df404fff2fa1c0e37538fea28",
